@@ -1,6 +1,11 @@
-### Hi there 👋
+<h1 align='center'>
+    gm 🤘🏼 I'm Jose Sahagun 👨🏻‍💻
+   <p align='center'>
+        Blockchain Developer.
+        Creating Web3 Stuff.
+   </p>
+</h1> 
 
-- 🔭 I’m currently living and breathing Web3 | Studying blockchain development. 
 <!--
 **jsahagun91/jsahagun91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
