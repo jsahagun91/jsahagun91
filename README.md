@@ -49,6 +49,10 @@ Where to find me:
 <a><img src="https://img.shields.io/badge/Xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white"/>
 </a> 
 
+## 👨🏻‍💻 Currently learning
+<a><img src="https://img.shields.io/badge/Rust-ffffff.svg?&style=for-the-badge&logo=rust&logoColor=black"/>
+</a> 
+
 
 <!--
 **jsahagun91/jsahagun91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
