@@ -29,15 +29,24 @@ Where to find me:
 </p>
 
 ## ⚙️ Tools
+
 <a><img src="https://img.shields.io/badge/react-4682B4.svg?&style=for-the-badge&logo=react&logoColor=cyan"/>
 </a>
-
 <a>
 <img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge"/>
 </a> 
-
 <a>
 <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
+</a> 
+<a><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+</a>    
+<a><img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</a> 
+
+## IDEs 💻
+<a><img src="https://img.shields.io/badge/Visual Studio Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</a> 
+<a><img src="https://img.shields.io/badge/Xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white"/>
 </a> 
 
 
