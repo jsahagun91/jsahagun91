@@ -28,6 +28,19 @@ Where to find me:
 </a>
 </p>
 
+## ⚙️ Tools
+<a><img src="https://img.shields.io/badge/react%20-%33E3FF.svg?&style=for-the-badge&logo=react&logoColor=aqua"/>
+</a>
+
+<a>
+<img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge"/>
+</a> 
+
+<a>
+<img src="https://img.shields.io/badge/Swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
+</a> 
+
+
 <!--
 **jsahagun91/jsahagun91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
