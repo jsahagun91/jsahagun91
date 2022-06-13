@@ -18,6 +18,10 @@ Where to find me:
 </p>
 
 <p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jsahagun91&show_icons=true&count_private=true&theme=dark" width="450"></a>
+</p>
+
+<p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jsahagun91&layout=compact&theme=tokyonight" />
