@@ -29,7 +29,7 @@ Where to find me:
 </p>
 
 ## ⚙️ Tools
-<a><img src="https://img.shields.io/badge/react%20-%33E3FF.svg?&style=for-the-badge&logo=react&logoColor=aqua"/>
+<a><img src="https://img.shields.io/badge/react-4682B4.svg?&style=for-the-badge&logo=react&logoColor=cyan"/>
 </a>
 
 <a>
