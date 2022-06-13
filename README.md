@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently living and breathing Web3 | Studying blockchain development. 
 <!--
 **jsahagun91/jsahagun91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
