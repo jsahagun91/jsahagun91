@@ -47,7 +47,7 @@ Where to find me:
 <a><img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </a> 
 
-## IDEs 💻
+## 💻 IDEs 
 <a><img src="https://img.shields.io/badge/Visual Studio Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </a> 
 <a><img src="https://img.shields.io/badge/Xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white"/>
