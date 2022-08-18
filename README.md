@@ -57,6 +57,8 @@ Where to find me:
 <a><img src="https://img.shields.io/badge/Rust-ffffff.svg?&style=for-the-badge&logo=rust&logoColor=black"/>
 </a>
 <a><img src="https://img.shields.io/badge/₿⚡Lightning Network Dev-FB9101.svg?&style=for-the-badge&logo=lightning&logoColor=black"/>
+</a>
+<a><img src="https://img.shields.io/badge/Chaincode Labs Bitcoin Protocol Development-FB9101.svg?&style=for-the-badge&logo=lightning&logoColor=black"/>
 </a> 
 
 
