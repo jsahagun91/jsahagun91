@@ -1,10 +1,13 @@
 <h1 align='center'>
-    🤘🏼 I'm Jose Sahagun 👨🏻‍💻
+     Jose Sahagun 👨🏻‍💻
    <p align='center'>
-        Blockchain Developer.
-        Creating Web3 Content.
+        Full Stack Developer | Video Content Creator
    </p>
 </h1>
+
+<h4 align='left'>
+📍San Francisco, CA 💻 5 years of experience 💼 Freelance Dev and Content Creator looking for apprenticeship oppurtunity
+</h4>
 
 <p align='center'>
     
