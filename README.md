@@ -32,6 +32,12 @@ Where to find me:
 </a>
 </p>
 
+## 📚 Education
+<a><img src="https://img.shields.io/badge/Chaincode Labs Bitcoin Protocol Development-FB9101.svg?&style=for-the-badge&logo=lightning&logoColor=black"/>
+</a> 
+<a><img src="https://img.shields.io/badge/UC Berkeley Extension Full Stack Coding Bootcamp-%23007ACC.svg?&style=for-the-badge&logo=lightning&logoColor=white"/>
+</a> 
+
 ## ⚙️ Tools
 
 <a><img src="https://img.shields.io/badge/react-4682B4.svg?&style=for-the-badge&logo=react&logoColor=cyan"/>
@@ -58,12 +64,11 @@ Where to find me:
 </a> 
 
 ## 👨🏻‍💻 Currently learning
-<a><img src="https://img.shields.io/badge/Rust-ffffff.svg?&style=for-the-badge&logo=rust&logoColor=black"/>
+<a><img src="https://img.shields.io/badge/Cypress-ffffff.svg?&style=for-the-badge&logo=cypress&logoColor=black"/>
 </a>
-<a><img src="https://img.shields.io/badge/₿⚡Lightning Network Dev-FB9101.svg?&style=for-the-badge&logo=lightning&logoColor=black"/>
+<a><img src="https://img.shields.io/badge/₿⚡Lightning Network App Development-FB9101.svg?&style=for-the-badge&logo=lightning&logoColor=black"/>
 </a>
-<a><img src="https://img.shields.io/badge/Chaincode Labs Bitcoin Protocol Development-FB9101.svg?&style=for-the-badge&logo=lightning&logoColor=black"/>
-</a> 
+
 
 
 <!--
