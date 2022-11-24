@@ -1,8 +1,8 @@
 <h1 align='center'>
      Jose Sahagun 👨🏻‍💻
-   <p align='center'>
+   <h2 align='center'>
         Full Stack Developer | Video Content Creator | Taco Connoisseur 
-   </p>
+   </h2>
 </h1>
 
 <h4 align='left'>
