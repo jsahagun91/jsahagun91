@@ -1,7 +1,7 @@
 <h1 align='center'>
      Jose Sahagun 👨🏻‍💻
    <h2 align='center'>
-        Full Stack Developer | Video Content Creator | Taco Connoisseur 
+        Full Stack Developer | Video Content Creator | Taco Connoisseur | Bitcoiner
    </h2>
 </h1>
 
