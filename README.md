@@ -6,7 +6,7 @@
 </h1>
 
 <h4 align='left'>
-📍San Francisco, CA 💻 5 years of experience 💼 Freelance Dev and Content Creator looking for apprenticeship oppurtunity
+📍San Francisco, CA 💻 5 years of experience 💼 Freelance Dev and Content Creator looking for apprenticeship opportunity
 </h4>
 
 <p align='center'>
