@@ -6,7 +6,11 @@
 </h1>
 
 <h4 align='left'>
-📍San Francisco, CA 💻 5 years of experience 💼 Freelance Dev and Content Creator looking for apprenticeship opportunity
+📧 jsahagun91@gmail.com 📱 415-261-8501
+</h4>
+
+<h4 align='left'>
+📍San Francisco, CA 💻 5 years of experience 💼 looking for entry level dev position or apprenticeship opportunity
 </h4>
 
 <p align='center'>
