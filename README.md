@@ -43,7 +43,8 @@ Where to find me:
 </a> 
 
 ## ⚙️ Tools
-
+<a><img src="https://img.shields.io/badge/javascript-FFFF00.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
 <a><img src="https://img.shields.io/badge/react-4682B4.svg?&style=for-the-badge&logo=react&logoColor=cyan"/>
 </a>
 <a><img src="https://img.shields.io/badge/node-00A300.svg?&style=for-the-badge&logo=nodejs&logoColor=green"/>
