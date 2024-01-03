@@ -1,92 +1,76 @@
-<h1 align='center'>
-     Jose Sahagun 👨🏻‍💻
-   <h2 align='center'>
-        Full Stack Developer | Video Content Creator | Taco Connoisseur | Bitcoiner
-   </h2>
-</h1>
+### Joseph Sahagun
+jsahagun91@gmail.com | 415-261-8501 | LinkedIn | Github | San Francisco, CA | he/him/his
 
-<h4 align='left'>
-📧 jsahagun91@gmail.com 📱 415-261-8501
-</h4>
+### Summary
+Passionate, highly motivated, and results oriented professional seeking to obtain a rewarding position within an organization that will allow me to utilize and enhance my skills and contribute to the growth of the company.
 
-<h4 align='left'>
-📍San Francisco, CA 💻 5 years of experience 💼 looking for entry level dev position or apprenticeship opportunity
-</h4>
+### Skills (Years of experience listed after each item.)
+- **Languages:** JavaScript 5 | Swift 2 | Python 2 | Solidity 1 | Rust 1 | Typescript 1
+- **Frameworks:** React 5 | NextJS 1 | Django 1
+- **Databases:** MySQL 2 | MongoDB 1 | Firebase 1
+- **Other:** Git 4
 
-<p align='center'>
-    
-Where to find me:
-</p>
+### Education
+- **Bachelor of Science in Software Engineering, Expected Graduation: December, 2024**
+  - Western Governors University, Online
+  - Relevant Coursework: JavaScript Programming, Database Management, Software Design and Quality Assurance, Front-End Web Development
 
-<p align='center'>
-    <a href="https://www.linkedin.com/in/josesahagun01/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/jos3sha" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-    </a> 
-</p>
+### Experience
+- **San Domenico School - San Anselmo, CA | Technical Support Specialist | 2023 - Present**
+  - Configure and manage Macs, iPads, and PCs of over 400 students, teachers and staff with MDM software Jamf.
+  - Maintained over 98% satisfaction of technical support tickets on Zendesk.
+  - Developed and provided documentation, tutorials and resources for systems distributed through Google Workspace.
+  - Developed and deployed an automation script to delete files on communal computers on a weekly basis.
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jsahagun91&show_icons=true&count_private=true&theme=dark" width="450"></a>
-</p>
+- **Viva Bitcoin! - Remote | Web Developer | 2023**
+  - Created a custom Bitcoin ticker using industry leading API
+  - Consulted company on emerging technologies as related to business
+  - Reviewing and updating posts on website
 
-<p align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jsahagun91&layout=compact&theme=tokyonight" />
-</a>
-</p>
+- **pai Labs - San Francisco CA | Web Developer / Content Creator | 02/2013 - Present**
+  - Handled e-commerce web development for brands increasing visitors online by 150%
+  - Developed website plans for 100+ businesses to increase interactions (UI/UX & SEO)
+  - Conduct research by attending industry professional keynote events and reading peer-reviewed articles
+  - Collaborated with artists and published AR filters for social media accounts on Facebook and Instagram increasing engagement by 65%
 
-## 📚 Education
-<a><img src="https://img.shields.io/badge/Chaincode Labs Bitcoin Protocol Development-FB9101.svg?&style=for-the-badge&logo=lightning&logoColor=black"/>
-</a> 
-<a><img src="https://img.shields.io/badge/UC Berkeley Extension Full Stack Coding Bootcamp-%23007ACC.svg?&style=for-the-badge&logo=lightning&logoColor=white"/>
-</a> 
+- **Carmen’s - Novato CA | Assistant Manager | 04/2010 - 06/2023**
+  - Created 75+ Facebook, and Google ads and campaigns, targeting, optimization, web & application tracking daily.
+  - Facilitated weekly team meetings with 9 members to offer support in consistent flow of operations.
+  - Operated in a quick and efficient manner, being the key to an overall great experience and 4+ Stars on
+Yelp and Google.
 
-## ⚙️ Tools
-<a><img src="https://img.shields.io/badge/javascript-FFFF00.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-</a>
-<a><img src="https://img.shields.io/badge/react-4682B4.svg?&style=for-the-badge&logo=react&logoColor=cyan"/>
-</a>
-<a><img src="https://img.shields.io/badge/node-00A300.svg?&style=for-the-badge&logo=nodejs&logoColor=green"/>
-</a>
-<a>
-<img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge"/>
-</a> 
-<a>
-<img src="https://img.shields.io/badge/Swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-</a>
-<a><img src="https://img.shields.io/badge/solidity-ffffff.svg?&style=for-the-badge&logo=solidity&logoColor=black"/>
-</a> 
-<a><img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</a> 
+- **Apple Inc. - Corte Madera, CA  | Product Specialist | 1 0/2010 - 12/2012**
+  - Created 75+ Facebook, and Google ads and campaigns, targeting, optimization, web & application tracking daily.
+  - Facilitated weekly team meetings with 9 members to offer support in consistent flow of operations.
+  - Operated in a quick and efficient manner, being the key to an overall great experience and 4+ Stars on
+Yelp and Google.
 
-## 💻 IDEs 
-<a><img src="https://img.shields.io/badge/Visual Studio Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/Xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white"/>
-</a> 
+### Projects
+- **Lighting Network Wallet | Personal / Learning**
+  - Created a wallet to send and receive payments on Bitcoin Lightning Network
+  - Tools used: React.js, LNbits
 
-## 👨🏻‍💻 Currently learning
-<a><img src="https://img.shields.io/badge/Cypress-ffffff.svg?&style=for-the-badge&logo=cypress&logoColor=black"/>
-</a>
-<a><img src="https://img.shields.io/badge/₿⚡Lightning Network App Development-FB9101.svg?&style=for-the-badge&logo=lightning&logoColor=black"/>
-</a>
+- **OLL Faculty & Staff Site | Parent Teach Guild Board Member**
+  - Created a Google Site for Our Lady of Loretto School for Faculty & Staff Updates
 
+- **Site Angel | ETH San Francisco 2022 Hackathon**
+  - Took on role a frontend developer
+  - Collaborated with a team of 4 hackers
+  - Participated in competition with 1400 developers in attendance
+  - 1 of 38 teams that won bounty for integrating ENS
 
+- **Token Exchange Dapp | Academic**
+  - Project for a Blockchain Development course
+  - Tools used: React.js, Node, Solidity, Truffle, Redux, Web3.js, Vercel
 
-<!--
-**jsahagun91/jsahagun91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Nothing Crazy | E-Commerce Client / Shopify**
+  - Launched custom E-commerce store.
+  - Simplified the design and learned Ruby along the way.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certifications
+- Full Stack Coding Bootcamp, Completion: 08/2018 - UC Berkeley Extension
+- iOS Swift Development Course, Completion 10/2019 - London App Brewery
+- CS50x: Introduction to Computer Science, Completion: 07/2020 - Harvard University
+- Blockchain Developer Bootcamp, Completion 04/2021 - Dapp University
+- Bitcoin Protocol Development, 2022 - Chaincode Labs
+- Google IT Support Professional Certificate, 2023
