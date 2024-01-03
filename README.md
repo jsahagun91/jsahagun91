@@ -33,13 +33,13 @@ Passionate, highly motivated, and results oriented professional seeking to obtai
   - Conduct research by attending industry professional keynote events and reading peer-reviewed articles
   - Collaborated with artists and published AR filters for social media accounts on Facebook and Instagram increasing engagement by 65%
 
-- **Carmen’s - Novato CA | Assistant Manager | 04/2010 - 06/2023**
+- **Carmen’s - Novato CA | Assistant Manager | 01/2013 - 06/2023**
   - Created 75+ Facebook, and Google ads and campaigns, targeting, optimization, web & application tracking daily.
   - Facilitated weekly team meetings with 9 members to offer support in consistent flow of operations.
   - Operated in a quick and efficient manner, being the key to an overall great experience and 4+ Stars on
 Yelp and Google.
 
-- **Apple Inc. - Corte Madera, CA  | Product Specialist | 1 0/2010 - 12/2012**
+- **Apple Inc. - Corte Madera, CA  | Product Specialist | 10/2010 - 12/2012**
   - Created 75+ Facebook, and Google ads and campaigns, targeting, optimization, web & application tracking daily.
   - Facilitated weekly team meetings with 9 members to offer support in consistent flow of operations.
   - Operated in a quick and efficient manner, being the key to an overall great experience and 4+ Stars on
