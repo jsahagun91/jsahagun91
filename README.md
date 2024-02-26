@@ -49,9 +49,6 @@ Yelp and Google.
   - Created a wallet to send and receive payments on Bitcoin Lightning Network
   - Tools used: React.js, LNbits
 
-- **OLL Faculty & Staff Site | Parent Teach Guild Board Member**
-  - Created a Google Site for Our Lady of Loretto School for Faculty & Staff Updates
-
 - **Site Angel | ETH San Francisco 2022 Hackathon**
   - Took on role a frontend developer
   - Collaborated with a team of 4 hackers
