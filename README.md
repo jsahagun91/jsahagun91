@@ -41,7 +41,11 @@ Passionate, highly motivated, and results oriented professional seeking to obtai
 Yelp and Google.
 
 ### Projects
-- **Lighting Network Wallet | Personal / Learning**
+- **[Timechain Cube]([https://github.com/jsahagun91/pleb-wallet-react](https://www.timechaincube.com))**
+  - Created a 3D cube that displays bitcoin data that user can interact with
+  - Tools used: HTML, CSS, Three.JS, Vite
+
+- **[Lighting Network Wallet | Personal / Learning](https://github.com/jsahagun91/pleb-wallet-react)**
   - Created a wallet to send and receive payments on Bitcoin Lightning Network
   - Tools used: React.js, LNbits
 
