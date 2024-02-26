@@ -41,7 +41,7 @@ Passionate, highly motivated, and results oriented professional seeking to obtai
 Yelp and Google.
 
 ### Projects
-- **[Timechain Cube]([https://github.com/jsahagun91/pleb-wallet-react](https://www.timechaincube.com))**
+- **[Timechain Cube](https://www.timechaincube.com)**
   - Created a 3D cube that displays bitcoin data that user can interact with
   - Tools used: HTML, CSS, Three.JS, Vite
 
