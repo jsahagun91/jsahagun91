@@ -5,7 +5,7 @@ jsahagun91@gmail.com | 415-261-8501 | LinkedIn | Github | San Francisco, CA | he
 Passionate, highly motivated, and results oriented professional seeking to obtain a rewarding position within an organization that will allow me to utilize and enhance my skills and contribute to the growth of the company.
 
 ### Skills (Years of experience listed after each item.)
-- **Languages:** JavaScript 5 | Swift 2 | Python 2 | Solidity 1 | Rust 1 | Typescript 1
+- **Languages:** JavaScript 5 | Swift 2 | Python 2 | Typescript 1
 - **Frameworks:** React 5 | NextJS 1 | Django 1
 - **Databases:** MySQL 2 | MongoDB 1 | Firebase 1
 - **Other:** Git 4
@@ -24,6 +24,7 @@ Passionate, highly motivated, and results oriented professional seeking to obtai
 
 - **Viva Bitcoin! - Remote | Web Developer | 2023**
   - Created a custom Bitcoin ticker using industry leading API
+  - Developed website on Wordpress
   - Consulted company on emerging technologies as related to business
   - Reviewing and updating posts on website
 
@@ -32,12 +33,6 @@ Passionate, highly motivated, and results oriented professional seeking to obtai
   - Developed website plans for 100+ businesses to increase interactions (UI/UX & SEO)
   - Conduct research by attending industry professional keynote events and reading peer-reviewed articles
   - Collaborated with artists and published AR filters for social media accounts on Facebook and Instagram increasing engagement by 65%
-
-- **Carmen’s - Novato CA | Assistant Manager | 01/2013 - 06/2023**
-  - Created 75+ Facebook, and Google ads and campaigns, targeting, optimization, web & application tracking daily.
-  - Facilitated weekly team meetings with 9 members to offer support in consistent flow of operations.
-  - Operated in a quick and efficient manner, being the key to an overall great experience and 4+ Stars on
-Yelp and Google.
 
 - **Apple Inc. - Corte Madera, CA  | Product Specialist | 10/2010 - 12/2012**
   - Created 75+ Facebook, and Google ads and campaigns, targeting, optimization, web & application tracking daily.
@@ -70,7 +65,5 @@ Yelp and Google.
 ### Certifications
 - Full Stack Coding Bootcamp, Completion: 08/2018 - UC Berkeley Extension
 - iOS Swift Development Course, Completion 10/2019 - London App Brewery
-- CS50x: Introduction to Computer Science, Completion: 07/2020 - Harvard University
-- Blockchain Developer Bootcamp, Completion 04/2021 - Dapp University
 - Bitcoin Protocol Development, 2022 - Chaincode Labs
 - Google IT Support Professional Certificate, 2023
