@@ -1,8 +1,14 @@
 ### Joseph Sahagun
 jsahagun91@gmail.com | 415-261-8501 | LinkedIn | Github | San Francisco, CA | he/him/his
 
-### Summary
-Passionate, highly motivated, and results oriented professional seeking to obtain a rewarding position within an organization that will allow me to utilize and enhance my skills and contribute to the growth of the company.
+## Skills
+
+### Technical:
+- HTML | CSS | JavaScript | React JS | MySQL | Git | Bash | Python | Cryptology/Encryption
+
+### Business:
+- Customer Service | Teamwork | Communication | Problem-solving | Emotional Intelligence | Growth Mindset
+
 
 ### Skills (Years of experience listed after each item.)
 - **Languages:** JavaScript 5 | Swift 2 | Python 2 | Typescript 1
