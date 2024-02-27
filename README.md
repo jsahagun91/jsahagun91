@@ -1,5 +1,5 @@
 ## Jose Sahagun
-jsahagun91@gmail.com | 415-261-8501 | LinkedIn | Github | San Francisco, CA | he/him/his
+jsahagun91@gmail.com | 415-261-8501 | [LinkedIn](http://linkedin.com/in/josesahagun01/) | [Twitter/X](http://twitter.com/jos3sha) | San Francisco, CA |
 
 ## Skills
 
