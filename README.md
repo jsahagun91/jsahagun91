@@ -9,12 +9,12 @@ jsahagun91@gmail.com | 415-261-8501 | LinkedIn | Github | San Francisco, CA | he
 ### Business:
 - Customer Service | Teamwork | Communication | Problem-solving | Emotional Intelligence | Growth Mindset
 
-### Education
+## Education
 - **Bachelor of Science in Software Engineering, Expected Graduation: December, 2024**
   - Western Governors University, Online
   - Relevant Coursework: JavaScript Programming, Database Management, Software Design and Quality Assurance, Front-End Web Development
 
-### Experience
+## Experience
 - **San Domenico School - San Anselmo, CA | Technical Support Specialist | 2023 - Present**
   - Configure and manage Macs, iPads, and PCs of over 400 students, teachers and staff with MDM software Jamf.
   - Maintained over 98% satisfaction of technical support tickets on Zendesk.
@@ -39,7 +39,7 @@ jsahagun91@gmail.com | 415-261-8501 | LinkedIn | Github | San Francisco, CA | he
   - Operated in a quick and efficient manner, being the key to an overall great experience and 4+ Stars on
 Yelp and Google.
 
-### Projects
+## Projects
 - **[Timechain Cube](https://www.timechaincube.com)**
   - Created a 3D cube that displays bitcoin data that user can interact with
   - Tools used: HTML, CSS, Three.JS, Vite
@@ -62,7 +62,7 @@ Yelp and Google.
   - Launched custom E-commerce store.
   - Simplified the design and learned Ruby along the way.
 
-### Certifications
+## Certifications
 - Full Stack Coding Bootcamp, Completion: 08/2018 - UC Berkeley Extension
 - iOS Swift Development Course, Completion 10/2019 - London App Brewery
 - Bitcoin Protocol Development, 2022 - Chaincode Labs
