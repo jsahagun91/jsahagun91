@@ -9,13 +9,6 @@ jsahagun91@gmail.com | 415-261-8501 | LinkedIn | Github | San Francisco, CA | he
 ### Business:
 - Customer Service | Teamwork | Communication | Problem-solving | Emotional Intelligence | Growth Mindset
 
-
-### Skills (Years of experience listed after each item.)
-- **Languages:** JavaScript 5 | Swift 2 | Python 2 | Typescript 1
-- **Frameworks:** React 5 | NextJS 1 | Django 1
-- **Databases:** MySQL 2 | MongoDB 1 | Firebase 1
-- **Other:** Git 4
-
 ### Education
 - **Bachelor of Science in Software Engineering, Expected Graduation: December, 2024**
   - Western Governors University, Online
