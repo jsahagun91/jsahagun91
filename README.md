@@ -13,6 +13,12 @@ jsahagun91@gmail.com | 415-261-8501 | [LinkedIn](http://linkedin.com/in/josesaha
 - **Bachelor of Science in Software Engineering, Expected Graduation: December, 2024**
   - Western Governors University, Online
   - Relevant Coursework: JavaScript Programming, Database Management, Software Design and Quality Assurance, Front-End Web Development
+ 
+## Certifications
+- Full Stack Coding Bootcamp, Completion: 08/2018 - UC Berkeley Extension
+- iOS Swift Development Course, Completion 10/2019 - London App Brewery
+- Bitcoin Protocol Development, 2022 - Chaincode Labs
+- Google IT Support Professional Certificate, 2023
 
 ## Experience
 - **San Domenico School - San Anselmo, CA | Technical Support Specialist | 2023 - Present**
@@ -61,9 +67,3 @@ Yelp and Google.
 - **Nothing Crazy | E-Commerce Client / Shopify**
   - Launched custom E-commerce store.
   - Simplified the design and learned Ruby along the way.
-
-## Certifications
-- Full Stack Coding Bootcamp, Completion: 08/2018 - UC Berkeley Extension
-- iOS Swift Development Course, Completion 10/2019 - London App Brewery
-- Bitcoin Protocol Development, 2022 - Chaincode Labs
-- Google IT Support Professional Certificate, 2023
