@@ -60,10 +60,6 @@ Yelp and Google.
   - Participated in competition with 1400 developers in attendance
   - 1 of 38 teams that won bounty for integrating ENS
 
-- **Token Exchange Dapp | Academic**
-  - Project for a Blockchain Development course
-  - Tools used: React.js, Node, Solidity, Truffle, Redux, Web3.js, Vercel
-
 - **Nothing Crazy | E-Commerce Client / Shopify**
   - Launched custom E-commerce store.
   - Simplified the design and learned Ruby along the way.
