@@ -67,3 +67,6 @@ Yelp and Google.
 - **Nothing Crazy | E-Commerce Client / Shopify**
   - Launched custom E-commerce store.
   - Simplified the design and learned Ruby along the way.
+
+## Contributions
+- **[add voltage logo to index.html under runs on section #1711]([https://github.com/jsahagun91/pleb-wallet-react](https://github.com/lnbits/lnbits/pull/1711))**
