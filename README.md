@@ -62,7 +62,7 @@ Yelp and Google.
 
 - **Nothing Crazy | E-Commerce Client / Shopify**
   - Launched custom E-commerce store.
-  - Simplified the design and learned Ruby along the way.
+  - Simplified the design and learned Shopify Liquid along the way.
 
 ## Contributions
 - **[added pwa configuration #35](https://github.com/MakePrisms/boardwalkcash/pull/35)**
