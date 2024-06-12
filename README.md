@@ -69,4 +69,6 @@ Yelp and Google.
   - Simplified the design and learned Ruby along the way.
 
 ## Contributions
+- **[added pwa configuration #35](https://github.com/MakePrisms/boardwalkcash/pull/35)**
 - **[add voltage logo to index.html under runs on section #1711](https://github.com/lnbits/lnbits/pull/1711)**
+
