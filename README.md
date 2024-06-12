@@ -64,7 +64,8 @@ Yelp and Google.
   - Launched custom E-commerce store.
   - Simplified the design and learned Shopify Liquid along the way.
 
-## Contributions
+## Open Source Contributions
 - **[added pwa configuration #35](https://github.com/MakePrisms/boardwalkcash/pull/35)**
 - **[add voltage logo to index.html under runs on section #1711](https://github.com/lnbits/lnbits/pull/1711)**
+- **[Update todo-app-tutorial.mdx #495](https://github.com/TBD54566975/developer.tbd.website/pull/495)**
 
