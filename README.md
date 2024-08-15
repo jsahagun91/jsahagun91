@@ -68,6 +68,7 @@ Yelp and Google.
   - Simplified the design and learned Shopify Liquid along the way.
 
 ## Open Source Contributions
+- **[Alby Hub | PWA Configuration #393](https://github.com/getAlby/hub/pull/393)**
 - **[Boardwalk Cash | added pwa configuration #35](https://github.com/MakePrisms/boardwalkcash/pull/35)**
 - **[LNbits | add voltage logo to index.html under runs on section #1711](https://github.com/lnbits/lnbits/pull/1711)**
 - **[TBD | Update todo-app-tutorial.mdx #495](https://github.com/TBD54566975/developer.tbd.website/pull/495)**
