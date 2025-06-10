@@ -21,6 +21,12 @@ jsahagun91@gmail.com | 415-261-8501 | [LinkedIn](http://linkedin.com/in/josesaha
 - Google IT Support Professional Certificate, 2023
 
 ## Experience
+- **PepsiCo – Hayward, CA | Foodservice Sales Representative | 2024 – Present**
+  - Manage and grow client accounts while averaging 50 weekly cold calls (60% new business); surpassed annual goal by opening 52+ new accounts
+  - Use AI-powered menu optimization tools to boost sales by 300% at key locations
+  - Build strong partnerships with decision-makers through proactive service and tailored solutions
+  - Analyze customer data to uncover growth opportunities and consistently increase volume and revenue
+
 - **San Domenico School - San Anselmo, CA | Technical Support Specialist | 2023 - Present**
   - Configure and manage Macs, iPads, and PCs of over 400 students, teachers and staff with MDM software Jamf.
   - Maintained over 98% satisfaction of technical support tickets on Zendesk.
